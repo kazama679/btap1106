@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "Xuan Quang22",
+      "email": "quang2@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Quang tèo",
+      "email": "quang3@gmail.com"
+    },
+    {
+      "name": "Quang ngơ",
+      "id": 4
+    }
+  ],
+  "student": [
+    {
+      "id": 2,
+      "student_name": "Quang2",
+      "email": "quang2@gmail.com",
+      "address": "Hà Nội2",
+      "phone": "22222",
+      "status": true,
+      "created_at": "11/6/2024"
+    },
+    {
+      "student_name": "Minh Anh",
+      "email": "menk@gmail.com",
+      "address": "Hải Phòng",
+      "phone": "12355",
+      "status": true,
+      "created_at": "11/06/2024",
+      "id": 6
+    }
+  ]
+}
